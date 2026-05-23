@@ -23,11 +23,11 @@ This project is designed for:
 
 ## The system automatically calculates:
 
-Total working time
-Break duration
-Final work hours
-Hours, minutes, seconds
-Total salary amount
+- Total working time
+- Break duration
+- Final work hours
+- Hours, minutes, seconds
+- Total salary amount
 ## Features
 - Ordinary time input (AM/PM)
 - Accurate hour/minute/second calculation
